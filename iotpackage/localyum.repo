@@ -1,0 +1,5 @@
+[localyum]
+name=localyum
+baseurl=file:///home/download
+enable=1
+gpgcheck=0
